@@ -1,2 +1,2 @@
 # agile-final-project
-Honors Fina Project
+Honors Final Project
